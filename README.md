@@ -1,6 +1,6 @@
 # 👋 Hey I'm Sourabh
 
-🎓 Engineering Student (7th Semester) with a developer's mindset
+🎓 Engineering Student with a developer's mindset
 💻 Building practical tools with AI, Web3, and full-stack development
 🌐 Web & mobile developer | 🚀 Focused on real-world impact
 📍 India
