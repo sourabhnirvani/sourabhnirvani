@@ -1,18 +1,39 @@
-# 👋 Hey I'm Sourabh
+# 👋 Hey, I'm Sourabh
 
-🤖 AI Systems Engineer & LLM Evaluator
+🎯 AI Evaluation Specialist · LLM Trainer & Evaluator · Python Engineer
+🧠 Evaluating AI models for reasoning, safety, and instruction adherence — and building the benchmark tasks and verifier infrastructure behind those evaluations
 ⚡ Building autonomous AI agents, automation systems, and local AI tools
 🔍 AI Evaluation • Prompt Engineering • Agentic Workflows
 📍 India
 
 ---
 
+## 🔭 Currently
+
+Working as an **AI Benchmark Task Developer at Handshake AI (Project Dynamo)** — designing evaluation environments and verifier test suites for agentic coding benchmarks, alongside AI model evaluation work with Outlier and Aether.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Local-Gravity](https://github.com/sourabhnirvani/Local-Gravity) | Offline, local-first AI coding IDE — no paid cloud APIs required |
+| [YouTube-Automation-Agent](https://github.com/sourabhnirvani/YouTube-Automation-Agent) | Fully autonomous pipeline that researches, scripts, edits, and uploads YouTube videos, controlled via Telegram |
+| [IPL-WINNING-TEAM-PREDICTION](https://github.com/sourabhnirvani/IPL-WINNING-TEAM-PREDICTION) | ML classification model predicting real-time IPL win probabilities from historical match data |
+| [Jarvis](https://github.com/sourabhnirvani/Jarvis) | Voice-enabled AI companion built with the Gemini API, React, and Three.js |
+| [NovaAI](https://github.com/sourabhnirvani/NovaAI) | AI assistant with voice, chat, and image generation, plus a live-threat-feed cybersecurity mode |
+| [E-Commerce-Web-page](https://github.com/sourabhnirvani/E-Commerce-Web-page) | Product browsing, filters, cart, and secure checkout — supported 100+ daily users during peak testing |
+
+---
+
 ## 🔗 Let's Connect
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-nirwane-25219025b)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-nirvani-25219025b)
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabnirwane944@gmail.com)
 
 ---
+
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,3 +51,10 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![ClaudeCode](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhnirvani&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhnirvani&layout=compact&theme=dark&hide_border=true)
