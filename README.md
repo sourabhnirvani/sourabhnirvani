@@ -1,20 +1,20 @@
-# 👋 Hey, I'm Sourabh
+# Hey, I'm Sourabh 👋
 
 🎯 AI Evaluation Specialist · LLM Trainer & Evaluator · Python Engineer
-🧠 Evaluating AI models for reasoning, safety, and instruction adherence — and building the benchmark tasks and verifier infrastructure behind those evaluations
+🧠 Evaluating AI models for reasoning, safety, and instruction adherence
 ⚡ Building autonomous AI agents, automation systems, and local AI tools
 🔍 AI Evaluation • Prompt Engineering • Agentic Workflows
 📍 India
 
 ---
 
-## 🔭 Currently
+## Currently 🔭
 
 Working as an **AI Benchmark Task Developer at Handshake AI (Project Dynamo)** — designing evaluation environments and verifier test suites for agentic coding benchmarks, alongside AI model evaluation work with Outlier and Aether.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects 🚀
 
 | Project | Description |
 |---|---|
@@ -27,14 +27,14 @@ Working as an **AI Benchmark Task Developer at Handshake AI (Project Dynamo)** �
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect 🔗
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-nirvani-25219025b)
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabnirwane944@gmail.com)
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools 🛠️
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -51,10 +51,3 @@ Working as an **AI Benchmark Task Developer at Handshake AI (Project Dynamo)** �
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![ClaudeCode](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge)
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-
-![Sourabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sourabhnirvani&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhnirvani&layout=compact&theme=dark&hide_border=true)
