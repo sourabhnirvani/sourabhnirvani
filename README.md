@@ -1,9 +1,9 @@
 # Hey, I'm Sourabh 👋
 
-🎯 AI Evaluation Specialist · LLM Trainer & Evaluator · Python Engineer
-🧠 Evaluating AI models for reasoning, safety, and instruction adherence
-⚡ Building autonomous AI agents, automation systems, and local AI tools
-🔍 AI Evaluation • Prompt Engineering • Agentic Workflows
+🤖 Software Engineer · Backend & AI Systems · Agentic Workflows
+⚡ Building evaluation infrastructure, autonomous agent workflows, and automation systems in Python & TypeScript
+🔍 Dockerized benchmarks • Invariant-based verifiers • Multi-step agent pipelines
+📌 GitHub PR review • Multi-stage CI • Adversarial hardening of automated graders
 📍 India
 
 ---
