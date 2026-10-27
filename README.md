@@ -10,7 +10,7 @@
 
 ## Currently 🔭
 
-Working as an **AI Benchmark Task Developer at Handshake AI (Project Dynamo)** — designing evaluation environments and verifier test suites for agentic coding benchmarks, alongside AI model evaluation work with Outlier and Aether.
+Working as an **AI Benchmark Task Developer at Turing ** — designing evaluation environments and verifier test suites for agentic coding benchmarks, alongside AI model evaluation work with Outlier and Aether.
 
 ---
 
