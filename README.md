@@ -29,7 +29,7 @@ Working as an **AI Benchmark Task Developer at Turing ** — designing evaluatio
 
 ## Let's Connect 🔗
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sourabh-nirvani-25219025b)
+
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourabnirwane944@gmail.com)
 
 ---
